@@ -1,6 +1,4 @@
 # Bill Generator
-This code help us to create a bill with item name and its amount with quantity and then finally
-store the output in a text file according to a electronic bill format.
-
+This project helps us to switch over to Computerized billing of items in a well organised manner and to avoid any kind of paper work.
 
 Here is the download link for exe file: https://www.mediafire.com/file/bvim6ck38r6q4t8/Bill+Generator.exe
